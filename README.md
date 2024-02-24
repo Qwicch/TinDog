@@ -17,7 +17,7 @@ To use this website, you need a web browser that supports HTML, CSS, and Bootstr
 
 ## Usage
 
-To use this website, you can scroll through the different sections and learn more about TinDog and its features. You can also click on the navigation bar items to jump to the corresponding sections. If you are interested in downloading the app, you can click on the buttons that say "Download" and you will be redirected to the app store or the play store, depending on your device.
+To use this website, you can scroll through the different sections and learn more about TinDog and its features. You can also click on the navigation bar items to jump to the corresponding sections.
 
 ## Changelog
 
