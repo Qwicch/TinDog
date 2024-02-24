@@ -28,10 +28,3 @@ To use this website, you can scroll through the different sections and learn mor
 This project is licensed under the MIT License. For more information, see the LICENSE file in this repository.
 
 This project was created by [qwicch](^[2](https://github.com/Qwicch)^), a web developer and a dog lover. You can contact me at ilmire.kireev@gmail.com.
-
-Source: Conversation with Bing, 2/24/2024
-(1) How to Write a Good README File for Your GitHub Project - freeCodeCamp.org. https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/.
-(2) Quickstart for writing on GitHub - GitHub Docs. https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github.
-(3) How to Create the Perfect README for Your Open Source Project. https://dev.to/github/how-to-create-the-perfect-readme-for-your-open-source-project-1k69.
-(4) How to write a great README for your GitHub project in 5 steps. https://dev.to/abdfnx/how-to-write-a-great-readme-for-your-github-project-in-5-steps-33e5.
-(5) How to write a great README for your GitHub project. https://dbader.org/blog/write-a-great-readme-for-your-github-project.
